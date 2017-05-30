@@ -24,6 +24,7 @@ class CatListing extends Component {
           <li>
             {this.props.cat.age}
           </li>
+          <hr></hr>
         </ul>
       </div>
     )
